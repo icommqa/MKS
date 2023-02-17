@@ -1,0 +1,6 @@
+com\aiite\pagefactory\HomePage.class
+com\aiite\pageexecution\LoginPageExecution.class
+com\aiite\pageexecution\RunnerClass.class
+com\aiite\basepackage\BaseClass.class
+com\aiite\pagefactory\LoginPage.class
+com\aiite\pageexecution\HomePageExecution.class
